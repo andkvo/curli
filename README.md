@@ -26,7 +26,7 @@ Copy and paste the cURL command it gives you.
 
 ## Repeat mode
 
-> ./curli load <your-saved-request>
+> ./curli load your-saved-request
 
 ## Macros
 
